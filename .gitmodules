@@ -1,0 +1,3 @@
+[submodule "tools/HipSTR"]
+	path = tools/HipSTR
+	url = https://github.com/tfwillems/HipSTR.git
